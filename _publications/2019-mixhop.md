@@ -9,8 +9,12 @@ paperurl: 'http://proceedings.mlr.press/v97/abu-el-haija19a/abu-el-haija19a.pdf'
 citation: 'Abu-El-Haija, S., Perozzi, B., Kapoor, A., Harutyunyan, H., Alipourfard, N., Lerman, K., Ver Steeg, G., Galstyan, A. (2019). &quot;MixHop: Higher-Order Graph Convolutional Architectures via Sparsified Neighborhood Mixing.&quot; <i>International Conference on Machine Learning</i>. 2019.'
 ---
 
-[Paper](http://proceedings.mlr.press/v97/abu-el-haija19a/abu-el-haija19a.pdf)
-[Third-Party Code](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)
+Links
+-----
+
+  * [Paper](http://proceedings.mlr.press/v97/abu-el-haija19a/abu-el-haija19a.pdf)
+  * [Third-Party Code](https://github.com/benedekrozemberczki/MixHop-and-N-GCN)
+  * [Slides](http://sami.haija.org/icml19)
 
 Cite as:
     
