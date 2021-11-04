@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sami Abu-El-Haija / Computer Scientist"
+title                    : "Sami Abu-El-Haija"
 title_separator          : "-"
 name                     : &name "Sami Abu-El-Haija"
 description              : &description "personal description"

@@ -2,7 +2,7 @@
 title: "Implicit SVD for Graph Representation Learning"
 collection: publications
 permalink: /publication/2021-fastgrl
-excerpt: 'Find solutions in-closed form to linearized GNN models.'
+excerpt: 'Find solutions in closed-form to linearized GNN models.'
 date: 2021-5-1
 venue: 'ICLR 2021 Workshop on Geometrical and Topological Representation Learnings'
 paperurl: 'https://openreview.net/forum?id=YIloSPZFeGe'
