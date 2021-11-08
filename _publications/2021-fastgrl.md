@@ -1,5 +1,5 @@
 ---
-title: "Implicit SVD for Graph Representation Learning"
+title: "Fast Graph Learning with Unique Optimal Solutions"
 collection: publications
 permalink: /publication/2021-fastgrl
 excerpt: 'Fast Graph Learning with Unique Optimal Solutions.'
