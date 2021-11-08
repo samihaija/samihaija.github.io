@@ -1,5 +1,5 @@
 ---
-title: "Implicit SVD for Graph Representation Learning"
+title: "A Higher-Order Graph Convolutional Layer"
 collection: publications
 permalink: /publication/2018-high-order-gc-layer
 excerpt: 'Extends GCN layer: in addition to utilizing features of immediate neighbors, also include information from further neighbors.'
