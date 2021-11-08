@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-fastgrl
 excerpt: 'Fast Graph Learning with Unique Optimal Solutions.'
 date: 2021-5-1
-venue: 'ICLR 2021 Workshop on Geometrical and Topological Representation Learnings'
+venue: 'ICLR 2021 Workshop on Geometrical and Topological Representation Learning'
 paperurl: 'https://openreview.net/forum?id=YIloSPZFeGe'
 citation: 'Abu-El-Haija, S., Crespi, V., Ver Steeg, G., Galstyan, A., (2021). &quot;Fast Graph Learning with Unique Optimal Solutions.&quot; <i>ICLR 2021 Workshop on Geometrical and Topological Representation Learnings</i>. 2021.'
 ---
