@@ -14,7 +14,7 @@ citation: 'Joonseok Lee, Sami Abu-El-Haija, Balakrishnan Varadarajan, and Paul N
 Cite as:
     
     @inproceedings{lee2018collaborative,
-      author={Joonseok Lee AND Sami Abu-El-Haija AND Balakrishnan Varadarajan AND Paul Natsev}
+      author={Joonseok Lee AND Sami Abu-El-Haija AND Balakrishnan Varadarajan AND Paul Natsev},
       title={Collaborative deep metric learning for video understanding},
       booktitle={SIGKDD Knowledge Discovery and Data Mining},
       year={2018},

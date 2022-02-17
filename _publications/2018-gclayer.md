@@ -12,7 +12,7 @@ citation: 'Abu-El-Haija, S., Alipourfard, N., Harutyunyan, H., Kapoor, A., Peroz
 [Paper](http://sami.haija.org/papers/high-order-gc-layer.pdf)
 
     @inproceedings{haija2018highorder,
-      author={Sami Abu-El-Haija AND Nazanin Alipourfard AND Hrayr Harutyunyan AND Amol Kapoor AND Bryan Perozzi}
+      author={Sami Abu-El-Haija AND Nazanin Alipourfard AND Hrayr Harutyunyan AND Amol Kapoor AND Bryan Perozzi},
       title={A Higher-Order Graph Convolutional Layer},
       booktitle={NeurIPS 2018 Workshop},
       year={2018},
